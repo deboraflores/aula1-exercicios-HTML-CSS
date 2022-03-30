@@ -1,12 +1,12 @@
 #div1 {
     background-color: #ffc0cb;
-    width: 500px;
-    height: 500px;
+    width: 488px;
+    height: 250px;
 }
 #div2 {
     background-color: #cb90ee;
-    width: 250px;
-    height: 250px;
+    width: 488px;
+    height: 100px;
 }
 p {
     background-color: #bbe914;
@@ -16,12 +16,12 @@ p {
     font-weight: bold 500;
 }
 #div3 {
-    background-color: #c90e0e;
-    width: 50%;
-    height: 50vh;
+    background-color: #739ff1;
+    width: 488px;
+    height: 60vh;
 }
 #div4 {
     background-color: #b6ec21;
-    width: 75vw;
+    width: 31vw;
     height: 50%;
 }
